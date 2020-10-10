@@ -3,13 +3,22 @@ package com.stu032.git;
 public class HelloTest {
 
 	public static void main(String[] args) {
-		System.out.println("ÄãºÃ£¡ãÚËÌ");
-		System.out.println("´´½¨·ÖÖ§");
-		System.out.println("ÕâÊÇdevµÄ²Ù×÷µÄÄÚÈİ");
-		System.out.println("ÕâÊÇpro×öµÄ¹¤×÷");
-		System.out.println("masterÌí¼Ó");
-		System.out.println("proÌí¼Ó");
-		System.out.println("µÚ¶ş´Î¸üĞÂÇ°¸üĞÂ");
-	}
+
+		System.out.println("ä½ å¥½ï¼é˜™é¢‚");
+		System.out.println("åˆ›å»ºåˆ†æ”¯");
+		System.out.println("è¿™æ˜¯devçš„æ“ä½œçš„å†…å®¹");
+		System.out.println("è¿™æ˜¯proåšçš„å·¥ä½œ");
+		System.out.println("masteræ·»åŠ ");
+		System.out.println("proæ·»åŠ ");
+		System.out.println("ç¬¬äºŒæ¬¡æ›´æ–°å‰æ›´æ–°");
+
+		System.out.println("æµ£çŠ²ã‚½é”›ä¾€æ§æ£°ï¿½");
+		System.out.println("é’æ¶˜ç¼“é’å—˜æ•®");
+		System.out.println("æ©æ¬æ§¸devé¨å‹¬æ·æµ£æ»…æ®‘éå‘­î†");
+		System.out.println("æ©æ¬æ§¸proé‹æ°±æ®‘å®¸ãƒ¤ç¶”");
+		System.out.println("masterå¨£è¯²å§");
+		System.out.println("proå¨£è¯²å§");
+		System.out.println("é¦ã„§åšç¼‚æ ¬ç·«");
+}
 
 }

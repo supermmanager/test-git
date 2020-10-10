@@ -9,6 +9,7 @@ public class HelloTest {
 		System.out.println("这是pro做的工作");
 		System.out.println("master添加");
 		System.out.println("pro添加");
+		System.out.println("第二次更新前更新");
 	}
 
 }

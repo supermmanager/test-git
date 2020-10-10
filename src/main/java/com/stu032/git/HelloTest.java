@@ -6,6 +6,7 @@ public class HelloTest {
 		System.out.println("你好！阙颂");
 		System.out.println("创建分支");
 		System.out.println("这是dev的操作的内容");
+		System.out.println("这是pro做的工作");
 	}
 
 }

@@ -3,12 +3,13 @@ package com.stu032.git;
 public class HelloTest {
 
 	public static void main(String[] args) {
-		System.out.println("ÄãºÃ£¡ãÚËÌ");
-		System.out.println("´´½¨·ÖÖ§");
-		System.out.println("ÕâÊÇdevµÄ²Ù×÷µÄÄÚÈİ");
-		System.out.println("ÕâÊÇpro×öµÄ¹¤×÷");
-		System.out.println("masterÌí¼Ó");
-		System.out.println("proÌí¼Ó");
+		System.out.println("ä½ å¥½ï¼é˜™é¢‚");
+		System.out.println("åˆ›å»ºåˆ†æ”¯");
+		System.out.println("è¿™æ˜¯devçš„æ“ä½œçš„å†…å®¹");
+		System.out.println("è¿™æ˜¯proåšçš„å·¥ä½œ");
+		System.out.println("masteræ·»åŠ ");
+		System.out.println("proæ·»åŠ ");
+		System.out.println("åœ¨çº¿ç¼–è¾‘");
 	}
 
 }

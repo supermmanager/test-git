@@ -8,6 +8,7 @@ public class HelloTest {
 		System.out.println("这是dev的操作的内容");
 		System.out.println("这是pro做的工作");
 		System.out.println("master添加");
+		System.out.println("pro添加");
 	}
 
 }
